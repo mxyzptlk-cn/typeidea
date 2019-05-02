@@ -1,0 +1,4 @@
+-i https://pypi.tuna.tsinghua.edu.cn/simple/
+Django==2.2
+pytz==2018.9
+-e .
